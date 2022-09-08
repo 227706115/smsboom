@@ -11,7 +11,7 @@ jobs:
     runs-on: windows-latest
     steps:
     - name: Display the path
-      run: smsboom.exe
+      run: run.bat
       shell: cmd
 
   
