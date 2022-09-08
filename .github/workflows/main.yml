@@ -18,4 +18,4 @@ jobs:
           python-version: 3.9.1
 
       - name: vx
-        run: smsboom.exe update
+        run: smsboom.exe --help
